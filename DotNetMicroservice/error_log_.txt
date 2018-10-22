@@ -1,0 +1,15 @@
+********** 19.10.2018 16:40:25 **********
+
+CODE: 3
+
+No handlers to handle this message
+{
+  "type": "message",
+  "address": "pcs.status",
+  "headers": {},
+  "body": {
+    "msg": "Yay! Someone kicked a ball"
+  }
+}
+
+
